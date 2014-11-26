@@ -1,0 +1,30 @@
+
+
+#wrapper{
+    position: inherit;
+    width: auto;
+    height: auto;
+}
+
+#wrapper ul, #wrapper li{
+    list-style: none;
+}
+
+.plusminus:hover {
+    background-color: #A3A3C2;
+}
+.plusminus
+{
+    float: left;
+    font-size: 15px;
+    width: 15px;
+    height: 15px;
+    border: 1px solid;
+    text-align: center;
+    text-decoration: none;
+}
+
+label{
+    font-size: 18px;
+    padding-left: 15px;
+}
